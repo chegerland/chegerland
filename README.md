@@ -1,4 +1,5 @@
 ### Hi, I'm Christoph! 👋
+I am a PhD Student at the [Rammelkamp Group](https://www.dlr.de/os//desktopdefault.aspx/tabid-18256/) at DLR applying machine learning to spectral data from the mars rovers.
 
 
 <!--
